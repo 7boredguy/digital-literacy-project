@@ -34,7 +34,7 @@ For this task, I studied phishing attacks and created a case study explaining ho
 ```
 digital-literacy-project/
 ├── README.md
-├── report/
+├── Project_Report.docx
 ├── task-1-presentation/
 ├── task-2-portfolio/
 ├── task-3-platforms/
